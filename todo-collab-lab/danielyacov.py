@@ -1,0 +1,2 @@
+var = "DANIELYACOV"
+print(var)
